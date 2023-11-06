@@ -1,4 +1,3 @@
-
 ## Google Cloud Storage Python Scripts
 
 This repository contains a collection of Python scripts for interacting with Google Cloud Storage. These scripts allow you to perform various operations on objects in your Google Cloud Storage bucket, such as listing objects, uploading and downloading files, setting object metadata, and handling errors.
